@@ -1,15 +1,19 @@
 # Employee Sentiment Analysis
 Exploratory data analysis as well as Linear regression performed on a test dataset
+```
 Top 3 Most Positive Employees:
 employee_id
 9    2.272727
 6    2.181818
 2    2.045455
+```
+```
 Top 3 Most Negative Employees:
 employee_id
 8    0.909091
 7    1.136364
 1    1.227273
+```
 Flight Risk Employees:
 ['don.baughman@enron.com' 'john.arnold@enron.com']
 
